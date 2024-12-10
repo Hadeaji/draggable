@@ -28,7 +28,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "app/components/Item/components/Action/Action.jsx", "app/components/Item/index.jsx", "app/components/Item/components/Action/index.jsx", "app/components/Item/components/Handle/Handle.jsx", "app/components/Item/components/Handle/index.jsx", "app/components/Item/components/Remove/Remove.jsx", "app/components/Item/components/Remove/index.jsx", "app/components/Item/components/index.jsx"  ],
   "exclude": [
     "node_modules"
   ]
